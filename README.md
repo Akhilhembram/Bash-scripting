@@ -19,7 +19,7 @@ This Bash scripting course covers the essentials of writing and understanding Ba
  - [Loops]()
  - [Stings]()
  - [Functions]()
- - [Arrys]()
+ - [Arrays]()
  - [File operations]()
  - [Projects]()
  
