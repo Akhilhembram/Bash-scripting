@@ -15,7 +15,7 @@ This Bash scripting course covers the essentials of writing and understanding Ba
  - [Introduction to bash shell]()
  - [Simple script]()
  - [Variables and elements]()
- - [Condition statements]()
+ - [Conditional statements]()
  - [Loops]()
  - [Stings]()
  - [Functions]()
